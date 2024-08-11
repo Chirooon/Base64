@@ -11,7 +11,7 @@ Base64 Encoder/Decoder is a programm to encrypt/decrypt your text
 Click on this [Link](https://encrypt-base64.netlify.app/) that leads to the Online website
 
 # How do i use it? (Offline)
-Download the [index.html](https://raw.githubusercontent.com/Chirooon/Base64/main/index.html) file.
+Download the [index.html](index.html) file.
 In the .html file is the full code including css and js
 
 Feel free to modify the code
